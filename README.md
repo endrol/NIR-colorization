@@ -1,6 +1,6 @@
 # NIR-colorization
 Near Infrared Image colorization
-Implementation of paper Infrared image colorization using S-shape network.
+Implementation of [Infrared image colorization using S-shape network.](https://waseda.pure.elsevier.com/en/publications/infrared-image-colorization-using-a-s-shape-network)
 Original structure of colorization process
 <div align=center><img width="500" src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/overview2.png"/></div>
 <div align=left>
