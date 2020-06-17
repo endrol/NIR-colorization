@@ -15,6 +15,8 @@ By utilizing this global feature fusions, I hope to get a more universal result
 Infrared image colorization paper example
 <div align=center><img width="600" src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/compare0.png"/></div>
 <div align=left>
+
+## my experiment result with global feature fusion model
 Adding global feature fusion model, result from dataset [scene](http://matthewalunbrown.com/papers/BS11.pdf)    
     
     
@@ -30,3 +32,7 @@ Also I test on Loveday dataset
 </center>
 
 <div align=left>
+    
+# Usage
+Train and Test process can be found in [Unet_Train_Test.ipynb](Unet_Train_Test.ipynb).   
+The modification of model can be found in [unet_model2.py](unet_model2.py) and [unet_part2.py](unet_part2.py)
