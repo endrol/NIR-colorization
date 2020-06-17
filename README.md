@@ -1,5 +1,5 @@
 # NIR-colorization
-Near Infrared Image colorization
+Near Infrared Image colorization  
 Implementation of [Infrared image colorization using S-shape network.](https://waseda.pure.elsevier.com/en/publications/infrared-image-colorization-using-a-s-shape-network)
 Original structure of colorization process
 <div align=center><img width="600" src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/overview2.png"/></div>
