@@ -15,7 +15,7 @@ By utilizing this global feature fusions, I hope to get a more universal result
 Infrared image colorization paper example
 <div align=center><img width="600" src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/compare0.png"/></div>
 <div align=left>
-Adding global feature fusion model, result from dataset [Nirscene](http://matthewalunbrown.com/nirscene/nirscene.html)
+Adding global feature fusion model, result from dataset [nirscene](http://matthewalunbrown.com/nirscene/nirscene.html)
 <center class="half">
     <img src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/7.jpg" width="200"/><img src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/43.jpg" width="200"/><img src="https://raw.githubusercontent.com/endrol/NIR-colorization/master/IMG/51.jpg" width="200"/>
 </center>
